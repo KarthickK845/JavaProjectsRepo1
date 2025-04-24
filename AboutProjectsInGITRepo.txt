@@ -1,0 +1,26 @@
+C:\LocalRepos_Karthick\JavaProjectsRepo1>cd 007-Variables
+
+C:\LocalRepos_Karthick\JavaProjectsRepo1\007-Variables>git status
+
+C:\LocalRepos_Karthick\JavaProjectsRepo1\007-Variables>git add .
+
+C:\LocalRepos_Karthick\JavaProjectsRepo1\007-Variables>git commit -m "project commit 1"
+
+C:\LocalRepos_Karthick\JavaProjectsRepo1\007-Variables>git push -u origin main
+
+JavaProjectsRepo2
+=================
+007 to 039 = Java Basic Projects
+041 to 081 = Java Projects Advanced => Search, sort, exception, DS, Collections, Java8, multithreading, inner class, composition
+115 to 131 = Java Web Projects => CRUD, Maven, JDBC, Web projects
+
+JavaProjectsRepo1
+=================
+JavaProjectsRepo1/007-Variables/src/
+082 to 114 = solid principles and design patterns
+133 to 142 = Spring Projects part 1
+
+144 to 154 = SpringBootRESTJPA
+155 to 173 = SpringBootMicroservicesEurekaAndRestConcepts
+
+040,132,143 - not available
